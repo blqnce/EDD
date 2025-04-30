@@ -6,6 +6,13 @@ Laboratorio realizado el dia 30 de abril de 2025 con objetivo de analizar codigo
 
 ## Contenido:
 
+- Grafos.cpp : Archivo principal del programa
+
+## Requisitos
+
+- **Compilador**: g++ (versión 4.0.0 o superior)
+- **Sistema operativo**: Linux, Windows o MacOS (consola compatible)
+
 ## Instrucciones de Compilación y Ejecución
 
 ### Compilación
