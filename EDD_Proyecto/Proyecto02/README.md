@@ -65,7 +65,7 @@ El sistema mostrará un mensaje de bienvenida y quedará a la espera de que el u
 
 - Santiago Hernandez
 - Juan Esteban Bello
-- Esteban Nabas
+- Esteban Navas
 
 **Profesor:** John Corredor Franco
 
