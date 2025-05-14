@@ -1,3 +1,9 @@
+/*
+Laboratorio en clase (Algoritmo de Dijkstra)
+Desarrollado por:
+Esteban Alfonso Navas Suarez
+*/
+
 #include <climits>
 #include <iostream>
 
