@@ -1,3 +1,8 @@
+/*
+Laboratorio en clase (Algoritmo de Floyd
+Desarrollado por:
+Esteban Alfonso Navas Suarez
+*/
 
 #include <iostream>
 
