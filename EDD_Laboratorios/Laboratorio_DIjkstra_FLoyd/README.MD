@@ -37,7 +37,7 @@ El sistema mostrará el resultado de el algoritmo con la matriz de adyacencia ya
 
 ## Consideraciones
 
-- El Programa no pcuenta con inputs por parte del usuario, si quiere modificar la matriz de adyacencia debe hacer cambios al codigo.
+- El Programa no cuenta con inputs por parte del usuario, si quiere modificar la matriz de adyacencia debe hacer cambios al codigo.
 
 ## Autores
 
