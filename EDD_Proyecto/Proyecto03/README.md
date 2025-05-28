@@ -35,18 +35,6 @@ Un sistema completo de procesamiento y manipulación de imágenes desarrollado e
 g++ -Wall -std=c++17 -o prog main.cpp
 ```
 
-### Usando Makefile
-```bash
-# Compilar
-make
-
-# Compilar y ejecutar
-make run
-
-# Limpiar archivos compilados
-make clean
-```
-
 ## 💻 Uso del Programa
 
 ### Ejecución
